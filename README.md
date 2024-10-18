@@ -6,27 +6,10 @@ I am a cybersecurity engineering student with a passion for exploring various do
 
 
 ## 🔧 Technical Skills
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### Development
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-### Tools & Technologies
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-0033CC?style=flat-square&logo=ansible&logoColor=white)
-
 ### ### Systems of Detection & Response
 
 ![SIEM](https://img.shields.io/badge/-SIEM-000000?style=flat-square&logo=logstash&logoColor=white) 
-![EDR/MDR/XDR](https://img.shields.io/badge/-EDR-FF3D00?style=flat-square&logo=firefox&logoColor=white) 
+![EDR/MDR/XDR](https://img.shields.io/badge/-EDR/MDR/XDR-FF3D00?style=flat-square&logo=firefox&logoColor=white) 
 ![SOAR](https://img.shields.io/badge/-SOAR-005EB8?style=flat-square&logo=security&logoColor=white)
 
 ### Governance
@@ -44,6 +27,24 @@ I am a cybersecurity engineering student with a passion for exploring various do
 ![NAT](https://img.shields.io/badge/-NAT-4CAF50?style=flat-square&logo=networking&logoColor=white)
 ![Load Balancing](https://img.shields.io/badge/-Load%20Balancing-FF4081?style=flat-square&logo=networking&logoColor=white)
 
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-0033CC?style=flat-square&logo=ansible&logoColor=white)
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### Development
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+
 💬 Ask me about:
 Ethical Hacking: Techniques, tools, and methodologies.
 Penetration Testing: Identifying and addressing vulnerabilities.
@@ -54,5 +55,5 @@ Incident Response: Strategies for effective response and mitigation.
 I regularly practice my skills on CTF platforms, especially on **Hack The Box (HTB)**, where I engage in various challenges to enhance my penetration testing and cybersecurity skills.
 
 ## 📫 Find Me
-- [LinkedIn]([https://www.linkedin.com/in/achraf-maakoul-912824253/])
+- [LinkedIn](https://www.linkedin.com/in/achraf-maakoul-912824253/)
 
