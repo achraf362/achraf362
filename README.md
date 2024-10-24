@@ -14,6 +14,10 @@ I am a cybersecurity engineering student with a passion for exploring various do
 
 ### Governance
 ![ISO 27001](https://img.shields.io/badge/-ISO%2027001-0072B5?style=flat-square&logo=iso&logoColor=white)
+![ISO 27005](https://img.shields.io/badge/-ISO%2027005-0072B5?style=flat-square&logo=iso&logoColor=white)
+![NIST](https://img.shields.io/badge/-NIST-0072B5?style=flat-square&logo=iso&logoColor=white)
+
+
 
 ### Pentesting
 ![Pentesting](https://img.shields.io/badge/-Pentesting-FF0000?style=flat-square&logo=security&logoColor=white)
@@ -55,6 +59,7 @@ Incident Response: Strategies for effective response and mitigation.
 
 ## 🕹️ CTF Practice
 I regularly practice my skills on CTF platforms, especially on **Hack The Box (HTB)**, where I engage in various challenges to enhance my penetration testing and cybersecurity skills.
+[HackTheBox](https://app.hackthebox.com/profile/1771617)
 
 ## 📫 Find Me
 - [LinkedIn](https://www.linkedin.com/in/achraf-maakoul-912824253/)
