@@ -52,10 +52,10 @@ I am a cybersecurity engineering student with a passion for exploring various do
 
 
 💬 Ask me about:
-Ethical Hacking: Techniques, tools, and methodologies.
-Penetration Testing: Identifying and addressing vulnerabilities.
-Security Best Practices: Securing applications and networks.
-Incident Response: Strategies for effective response and mitigation.
+Ethical Hacking: Techniques, tools, and methodologies.  
+Penetration Testing: Identifying and addressing vulnerabilities.  
+Security Best Practices: Securing applications and networks.  
+Incident Response: Strategies for effective response and mitigation.  
 
 ## 🕹️ CTF Practice
 I regularly practice my skills on CTF platforms, especially on **Hack The Box (HTB)**, where I engage in various challenges to enhance my penetration testing and cybersecurity skills.
