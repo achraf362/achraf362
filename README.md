@@ -51,7 +51,7 @@ I am a cybersecurity engineering student with a passion for exploring various do
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 
-💬 Ask me about:
+💬 Ask me about:  
 Ethical Hacking: Techniques, tools, and methodologies.  
 Penetration Testing: Identifying and addressing vulnerabilities.  
 Security Best Practices: Securing applications and networks.  
