@@ -48,10 +48,12 @@ I am a cybersecurity engineering student with a passion for exploring various do
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
+
 
 
 💬 Ask me about:  
+
 Ethical Hacking: Techniques, tools, and methodologies.  
 Penetration Testing: Identifying and addressing vulnerabilities.  
 Security Best Practices: Securing applications and networks.  
