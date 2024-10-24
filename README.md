@@ -14,8 +14,8 @@ I am a cybersecurity engineering student with a passion for exploring various do
 
 ### Governance
 ![ISO 27001](https://img.shields.io/badge/-ISO%2027001-0072B5?style=flat-square&logo=iso&logoColor=white)
-![ISO 27005](https://img.shields.io/badge/-ISO%2027005-0072B5?style=flat-square&logo=iso&logoColor=white)
-![NIST](https://img.shields.io/badge/-NIST-0072B5?style=flat-square&logo=iso&logoColor=white)
+![ISO 27005](https://img.shields.io/badge/-ISO%2027005-4CAF50?style=flat-square&logo=iso&logoColor=white)
+![NIST](https://img.shields.io/badge/-NIST-FF9800?style=flat-square&logo=iso&logoColor=white)
 
 
 
