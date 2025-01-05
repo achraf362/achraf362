@@ -39,11 +39,8 @@ I am a cybersecurity & software engineering student with a passion for exploring
 ![Ansible](https://img.shields.io/badge/-Ansible-0033CC?style=flat-square&logo=ansible&logoColor=white)
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![Powershell](https://img.shields.io/badge/-Powershell-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Powershell](https://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
 
 ### Frameworks
 ![DJANGO](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
