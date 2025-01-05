@@ -1,12 +1,12 @@
 # Hello, I'm Achraf MAAKOUL! 👋
-### Cybersecurity Engineering Student | DevSecops Enthusiast
+### Cybersecurity & Software Engineering Student | DevSecops Enthusiast
 
 ## 🧑‍💻 About Me
-I am a cybersecurity engineering student with a passion for exploring various domains of cybersecurity, including DevSecOps. My interests span offensive and defensive security, as well as governance and compliance. I enjoy diving deep into the technical challenges of securing systems while also focusing on the strategic aspects of governance, aiming to build well-rounded expertise across the field.
+I am a cybersecurity & software engineering student with a passion for exploring various domains of cybersecurity, including DevSecOps. My interests span offensive and defensive security, as well as governance and compliance. I enjoy diving deep into the technical challenges of securing systems while also focusing on the strategic aspects of governance, aiming to build well-rounded expertise across the field.
 
 
 ## 🔧 Technical Skills
-### ### Systems of Detection & Response
+### Systems of Detection & Response
 
 ![SIEM](https://img.shields.io/badge/-SIEM-000000?style=flat-square&logo=logstash&logoColor=white) 
 ![EDR/MDR/XDR](https://img.shields.io/badge/-EDR/MDR/XDR-FF3D00?style=flat-square&logo=firefox&logoColor=white) 
@@ -40,24 +40,26 @@ I am a cybersecurity engineering student with a passion for exploring various do
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 ![Powershell](https://img.shields.io/badge/-Powershell-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### Development
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+### Frameworks
+![DJANGO](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![REACT](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
 
 
 
-💬 Ask me about:  
+💬 Ask me about:
 
-Ethical Hacking: Techniques, tools, and methodologies.  
-Penetration Testing: Identifying and addressing vulnerabilities.  
-Security Best Practices: Securing applications and networks.  
-Incident Response: Strategies for effective response and mitigation.  
+**Ethical Hacking**: Techniques, tools, and methodologies.  
+**Penetration Testing**: Identifying and addressing vulnerabilities.  
+**Security Best Practices**: Securing applications and networks.  
+**Incident Response**: Strategies for effective response and mitigation.  
+**Development**: Best practices in coding, software architecture, and DevSecOps.
 
 ## 🕹️ CTF Practice
 I regularly practice my skills on CTF platforms, especially on **Hack The Box (HTB)**, where I engage in various challenges to enhance my penetration testing and cybersecurity skills.
