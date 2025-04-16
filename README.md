@@ -1,5 +1,5 @@
 # Hello, I'm Achraf MAAKOUL! 👋
-### Cybersecurity & Software Engineering Student | DevSecops Enthusiast
+### Cybersecurity Engineering Student | DevSecops Enthusiast
 
 ## 🧑‍💻 About Me
 I am a cybersecurity & software engineering student with a passion for exploring various domains of cybersecurity, including DevSecOps. My interests span offensive and defensive security, as well as governance and compliance. I enjoy diving deep into the technical challenges of securing systems while also focusing on the strategic aspects of governance, aiming to build well-rounded expertise across the field.
